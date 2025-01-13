@@ -1,10 +1,10 @@
-## Your Task:
+## Your Task
 
 As applications scale and develop, developers want to ensure that certain quality checks are met prior to merging to important branches; thus, you'll want to familiarize yourself with Continuous Integration (CI) and Continuous Deployment (CD) that are common practices used to ensure consistency, quality, and deployment of latest code once all checks have been met and merged to `main`. 
 
 Your task is to create a CI/CD pipeline using GitHub Actions to run the component tests via Cypress when a Pull Request is made to the `develop` branch, and the application is deployed when code is merged from `develop` to the `main` branch.
 
-## User Story:
+## User Story
 
 ```md
 AS A developer looking to integrate a pipeline in a codebase for continuous integration and deployment, 
