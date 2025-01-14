@@ -1,4 +1,4 @@
-## User Story
+## User Story:
 
 ```md
 AS A developer looking to integrate a pipeline in a codebase for continuous integration and deployment, 
@@ -10,7 +10,7 @@ I WANT to create a GitHub Action that will run when the code is merged to main a
 SO THAT the application is constantly updated when major releases are made to the main branch.
 ```
 
-## Acceptance Criteria
+## Acceptance Criteria:
 
 ```md
 GIVEN a fullstack application for a web developer,
