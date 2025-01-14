@@ -1,4 +1,4 @@
-## User Story:
+## User Story
 
 ```md
 AS A developer looking to integrate a pipeline in a codebase for continuous integration and deployment, 
